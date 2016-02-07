@@ -1,0 +1,28 @@
+name: Battered Aggie Syndrome
+favicon: null
+layout_spectrum: 0.36001951969228685
+typography_spectrum: 0.7222556225024164
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.66979492129758
+  lightness: 0.17439179960638285
+  saturation: 0.5857457940001041
+  rhythmicContrast: 0.2598443701863289
+purpose: []
