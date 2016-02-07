@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Battered Aggie Syndrome]]></title>
         <description><![CDATA[Battered Aggie Syndrome]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/battered-aggie-syndrome/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 07 Feb 2016 02:08:23 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 07 Feb 2016 02:10:50 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/battered-aggie-syndrome/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f51cc16e-6cd4-494f-8037-5f61182c5a49.JPG">]]></description>
+            <link>https://thegrid.ai/battered-aggie-syndrome/c7bb32f6-8f40-46da-866b-198b2604bcfc/index.html</link>
+            <guid isPermaLink="false">c7bb32f6-8f40-46da-866b-198b2604bcfc</guid>
+            <pubDate>Sun, 07 Feb 2016 02:10:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cf09b436-171a-405a-8a19-3db79a032a46.JPG">]]></description>
-            <link>undefinedc83189f1-4591-4f00-944b-c35dd201ccc4/index.html</link>
+            <link>https://thegrid.ai/battered-aggie-syndrome/c83189f1-4591-4f00-944b-c35dd201ccc4/index.html</link>
             <guid isPermaLink="false">c83189f1-4591-4f00-944b-c35dd201ccc4</guid>
             <pubDate>Sun, 07 Feb 2016 02:08:16 GMT</pubDate>
         </item>
