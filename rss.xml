@@ -2,13 +2,20 @@
     <channel>
         <title><![CDATA[Battered Aggie Syndrome]]></title>
         <description><![CDATA[Battered Aggie Syndrome]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/battered-aggie-syndrome/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 08 Feb 2016 16:42:25 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 08 Feb 2016 16:42:30 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/battered-aggie-syndrome/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[SEC numbers crunching - Gridiron Now]]></title>
+            <description><![CDATA[<article><h1>SEC numbers crunching - Gridiron Now</h1><p>One thing that stuck out from National Signing Day - well, other than Alabama's continued dominance - was the class put together by Georgia. Smart was announced as Georgia's new coach on December 6, and less than two months later, he and his staff had signed the No.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a8f9e6fe5b9bd4122d3f004e666d8eeeb9ecc1a1.jpg"></article>]]></description>
+            <link>http://gridironnow.com/sec-recruiting-numbers-crunching/</link>
+            <guid isPermaLink="false">d0920d95-32cc-449b-b7f5-d65afe9187fd</guid>
+            <pubDate>Mon, 08 Feb 2016 16:42:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Texas A&M parts ways with offensive line coach Christensen]]></title>
-            <description><![CDATA[<article><h1>Texas A&M parts ways with offensive line coach Christensen</h1><p>Texas A&M will continue to revamp its offense, announcing Sunday that line coach and running game coordinator Dave Christensen won't return. A&M previously had parted ways with offensive coordinator Jake Spavital, replacing him with Noel Mazzone who had spent the last four seasons at UCLA.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b7fd230968e849e2d311ee110c1d9c82bc650a35.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Texas A&M parts ways with offensive line coach Christensen</h1><p>Texas A&M will continue to revamp its offense, announcing Sunday that line coach and running game coordinator Dave Christensen won't return. A&M previously had parted ways with offensive coordinator Jake Spavital, replacing him with Noel Mazzone who had spent the last four seasons at UCLA.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ac1961ddc2f8cff8d8068fc89133a720c715f1f0.jpg"></article>]]></description>
             <link>http://www.theeagle.com/aggie_sports/texas-a-m-parts-ways-with-offensive-line-coach-christensen/article_94926542-ce35-11e5-85e6-0b5f84f9747e.html</link>
             <guid isPermaLink="false">f74cdd93-2774-45d5-9e17-0afd02298cbb</guid>
             <pubDate>Mon, 08 Feb 2016 16:42:10 GMT</pubDate>
