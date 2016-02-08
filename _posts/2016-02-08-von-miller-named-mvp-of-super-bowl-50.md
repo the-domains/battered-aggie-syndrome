@@ -2,10 +2,10 @@
 author: []
 related: []
 publisher:
-  url: 'http://texags.com'
   name: TexAgs
-  favicon: 'http://texags.com/favicon.ico'
   domain: texags.com
+  url: 'http://texags.com'
+  favicon: 'http://texags.com/favicon.ico'
 keywords:
   - aggie
   - newton
@@ -22,13 +22,15 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://texags.com/s/19668/von-miller-named-mvp-of-super-bowl-50'
 title: Von Miller named MVP of Super Bowl 50
-datePublished: '2016-02-08T16:51:02.935Z'
-dateModified: '2016-02-08T16:49:59.555Z'
+datePublished: '2016-02-08T16:52:24.331Z'
+dateModified: '2016-02-08T16:52:13.587Z'
 sourcePath: _posts/2016-02-08-von-miller-named-mvp-of-super-bowl-50.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
+starred: true
+authors: []
 _context: 'http://schema.org'
 _type: MediaObject
 
