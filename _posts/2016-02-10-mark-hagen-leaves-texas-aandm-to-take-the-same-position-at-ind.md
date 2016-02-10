@@ -7,12 +7,12 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-10T22:46:52.527Z'
-dateModified: '2016-02-10T22:46:50.697Z'
+datePublished: '2016-02-10T22:47:15.201Z'
+dateModified: '2016-02-10T22:47:13.720Z'
 author: []
 related: []
 app_links: []
-title: "Mark Hagen leaves Texas A&M to take the same position at Indiana. \_"
+title: ' '
 sourcePath: _posts/2016-02-10-mark-hagen-leaves-texas-aandm-to-take-the-same-position-at-ind.md
 published: true
 authors: []
@@ -25,6 +25,6 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-# Mark Hagen leaves Texas A&M to take the same position at Indiana.  
+# 
 
-<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d6be3ca264521d1f31bfe881724b989c4561f017.jpg" /></article>
+<article style=""><h1>Mark Hagen leaves Texas A&amp;M to take the same position at Indiana.</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/24a79ad18db8477d2cacf5ebb3c52458b6182d6a.jpg" /></article>
