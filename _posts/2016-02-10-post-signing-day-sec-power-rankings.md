@@ -1,4 +1,24 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'http://espn.go.com/blog/sec/post/_/id/114311/post-signing-day-sec-power-rankings-2'
+inLanguage: en
+starred: false
+keywords:
+  - aschoff
+  - class
+  - espn
+  - sec
+  - signing
+  - defensive
+  - dual-threat
+  - cornerback
+  - scarborough
+  - junior
+description: 'Now that national signing day has come and gone, SEC rosters are starting to take shape.'
+datePublished: '2016-02-10T16:49:29.888Z'
+dateModified: '2016-02-10T16:49:23.559Z'
 author:
   - name: Edward Aschoff
     url: null
@@ -11,36 +31,18 @@ related:
     thumbnail_height: 630
     thumbnail_url: 'http://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png'
     thumbnail_width: 1200
-publisher:
-  url: 'http://espn.go.com'
-  name: ESPN.com
-  favicon: 'http://a.espncdn.com/favicon.ico'
-  domain: espn.go.com
-keywords:
-  - aschoff
-  - class
-  - espn
-  - sec
-  - signing
-  - defensive
-  - dual-threat
-  - cornerback
-  - scarborough
-  - junior
-description: '11:45 AM ET Close ESPN Staff Writer ESPN.com SEC reporter. Joined ESPN.com in 2011. Graduated from the University of Florida. Close ESPN Staff Writer Covers the SEC. Joined ESPN in 2012. Graduate of Auburn University. Now that national signing day has come and gone, SEC rosters are starting to take shape.'
-inLanguage: en
 app_links: []
-isBasedOnUrl: 'http://espn.go.com/blog/sec/post/_/id/114311/post-signing-day-sec-power-rankings-2'
 title: Post-signing day SEC Power Rankings
-datePublished: '2016-02-10T16:46:41.075Z'
-dateModified: '2016-02-10T16:43:28.652Z'
 sourcePath: _posts/2016-02-10-post-signing-day-sec-power-rankings.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: ESPN.com
+  domain: espn.go.com
+  url: 'http://espn.go.com'
+  favicon: 'http://a.espncdn.com/favicon.ico'
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Post-signing day SEC Power Rankings</h1><p>11&amp;colon;45 AM ET Close ESPN Staff Writer ESPN&amp;period;com SEC reporter&amp;period; Joined ESPN&amp;period;com in 2011&amp;period; Graduated from the University of Florida&amp;period; Close ESPN Staff Writer Covers the SEC&amp;period; Joined ESPN in 2012&amp;period; Graduate of Auburn University&amp;period; Now that national signing day has come and gone&amp;comma; SEC rosters are starting to take shape&amp;period;</p><img src="http://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2015%2F0827%2Fncf_g_seclogo_ms_3_r4448_1296x729_16%2D9.jpg" /></article>
+<article style=""><h1>Post-signing day SEC Power Rankings</h1><p>Now that national signing day has come and gone, SEC rosters are starting to take shape.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/102adfcb6af7207fbe81a48e219e85fde99361cd.jpg" /></article>
