@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-10T22:47:15.201Z'
-dateModified: '2016-02-10T22:47:13.720Z'
+datePublished: '2016-02-10T22:47:27.923Z'
+dateModified: '2016-02-10T22:47:25.134Z'
 author: []
 related: []
 app_links: []
@@ -25,6 +25,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-# 
-
 <article style=""><h1>Mark Hagen leaves Texas A&amp;M to take the same position at Indiana.</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/24a79ad18db8477d2cacf5ebb3c52458b6182d6a.jpg" /></article>
