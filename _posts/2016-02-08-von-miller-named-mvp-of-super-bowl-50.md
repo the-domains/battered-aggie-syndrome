@@ -22,14 +22,14 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://texags.com/s/19668/von-miller-named-mvp-of-super-bowl-50'
 title: Von Miller named MVP of Super Bowl 50
-datePublished: '2016-02-08T16:52:24.331Z'
-dateModified: '2016-02-08T16:52:13.587Z'
+datePublished: '2016-02-10T16:42:45.762Z'
+dateModified: '2016-02-10T16:42:40.270Z'
 sourcePath: _posts/2016-02-08-von-miller-named-mvp-of-super-bowl-50.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
-starred: true
+starred: false
 authors: []
 _context: 'http://schema.org'
 _type: MediaObject
