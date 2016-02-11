@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Battered Aggie Syndrome (BAS) is a common term among the Aggies, and means that anything that can go wrong will go wrong for our beloved Aggies.]]></title>
-        <description><![CDATA[Battered Aggie Syndrome (BAS) is a common term among the Aggies, and means that anything that can go wrong will go wrong for our beloved Aggies.]]></description>
+        <title><![CDATA[Battered Aggie Syndrome]]></title>
+        <description><![CDATA[Battered Aggie Syndrome]]></description>
         <link>http://batteredaggiesyndrome.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 11 Feb 2016 13:46:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Feb 2016 15:06:41 GMT</lastBuildDate>
         <atom:link href="http://batteredaggiesyndrome.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://nypdecider.files.wordpress.com/2014/12/boom-shaka-laka.gif?w=530">]]></description>
+            <link>http://batteredaggiesyndrome.com/b3281e93-e637-4046-8c77-618bf2f0ceee/index.html</link>
+            <guid isPermaLink="false">b3281e93-e637-4046-8c77-618bf2f0ceee</guid>
+            <pubDate>Thu, 11 Feb 2016 15:05:38 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Alabama hands Texas A&M 4th straight SEC loss]]></title>
-            <description><![CDATA[<article><h1>Alabama hands Texas A&M 4th straight SEC loss</h1><p>The past two weeks of Texas A&M basketball, losers of four consecutive SEC games, can be summed up by a pair of free-throw attempts, or more accurately, a pair of missed free throws. Aggies senior guard Anthony Collins, the SEC's most accurate free-throw shooter at 93.8%, had missed just two of his first 32 free throw attempts this season.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0461a105b807dbc3308d124f04425aa361cfa8f8.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Alabama hands Texas A&M 4th straight SEC loss</h1><p>The past two weeks of Texas A&M basketball, losers of four consecutive SEC games, can be summed up by a pair of free-throw attempts, or more accurately, a pair of missed free throws. Aggies senior guard Anthony Collins, the SEC's most accurate free-throw shooter at 93.8%, had missed just two of his first 32 free throw attempts this season.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/15d297fc0c6a9f2d8aa0192c2d144094108c5fad.jpg"></article>]]></description>
             <link>http://www.si.com/college-basketball/2016/02/10/alabama-hands-texas-am-fourth-consecutive-sec-loss</link>
             <guid isPermaLink="false">07a39b6c-8f37-490d-a95e-a18dc591af49</guid>
             <pubDate>Thu, 11 Feb 2016 13:46:15 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://bleacherreport.com/articles/2615268-what-texas-ams-kevin-sumlin-must-do-to-save-his-job-in-2016</link>
             <guid isPermaLink="false">a92656ac-d7ef-4f0f-a176-1b6a47670c57</guid>
             <pubDate>Wed, 10 Feb 2016 16:42:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A&M offensive staff never was on same page in 2015 - Gridiron Now]]></title>
-            <description><![CDATA[<article><h1>A&M offensive staff never was on same page in 2015 - Gridiron Now</h1><p>Texas A&M dismissed offensive line coach Dave Christensen on Sunday, and insiders tell GN the move wasn't a surprise because Christensen's arrival led to staff dissension in 2015. Christensen doubled as the Aggies' run game coordinator, and insiders say not every offensive staff member's ideas about the running game meshed.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6c8b4296175d1a8a847458d849da5e2c3aceda8a.jpg"></article>]]></description>
-            <link>http://gridironnow.com/dave-christensens-dismissal-at-texas-am-not-a-surprise/</link>
-            <guid isPermaLink="false">2baf0d84-7015-4f83-ad97-4d73b94aa797</guid>
-            <pubDate>Tue, 09 Feb 2016 14:05:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
