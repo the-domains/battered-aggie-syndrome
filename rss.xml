@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Battered Aggie Syndrome]]></title>
-        <description><![CDATA[Battered Aggie Syndrome]]></description>
+        <title><![CDATA[Battered Aggie Syndrome (BAS) is a common term among the Aggies, and means that anything that can go wrong will go wrong for our beloved Aggies.]]></title>
+        <description><![CDATA[Battered Aggie Syndrome (BAS) is a common term among the Aggies, and means that anything that can go wrong will go wrong for our beloved Aggies.]]></description>
         <link>http://batteredaggiesyndrome.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 10 Feb 2016 22:47:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Feb 2016 13:46:15 GMT</lastBuildDate>
         <atom:link href="http://batteredaggiesyndrome.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Three Candidates For Texas A&M Offensive Line Coach (Updated)]]></title>
+            <description><![CDATA[<article><h1>Three Candidates For Texas A&M Offensive Line Coach (Updated)</h1><p>Texas A&M has three candidates for its vacant offensive line coaching position after Dave Christensen was officially let go on Sunday. McNeese State offensive line coach Eman Naghavi , former Tennessee Titans offensive line coach Bob Bostad , and former Texas A&M offensive line coach Jim Turner are the names that have surfaced so far.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0b9b99c039267821e969f953bf4441d4811cc4b9.jpg"></article>]]></description>
+            <link>http://tamu.247sports.com/Bolt/Two-Candidates-For-Texas-AM-Offensive-Line-Coach-43602484</link>
+            <guid isPermaLink="false">809116d9-7ca2-45cb-8ad9-beb6418fe7f0</guid>
+            <pubDate>Thu, 11 Feb 2016 13:46:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[LSU sits atop Preseason FPI 1.0]]></title>
             <description><![CDATA[<article><h1>LSU sits atop Preseason FPI 1.0</h1><p>National signing day is complete, which means it's time to start looking ahead to the 2016 college football season. It also means there is enough information for ESPN Stats & Information to run its initial Preseason Football Power Index (FPI) to determine the best and worst teams heading into next season.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7d42d1c75b6554f28637dca40d2404aa6a50a4df.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://espn.go.com/mens-college-basketball/bracketology/_/iteration/223</link>
             <guid isPermaLink="false">13f3f3cb-afde-4aa1-b8d6-2836ab59848f</guid>
             <pubDate>Mon, 08 Feb 2016 16:52:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[SEC numbers crunching - Gridiron Now]]></title>
-            <description><![CDATA[<article><h1>SEC numbers crunching - Gridiron Now</h1><p>One thing that stuck out from National Signing Day - well, other than Alabama's continued dominance - was the class put together by Georgia. Smart was announced as Georgia's new coach on December 6, and less than two months later, he and his staff had signed the No.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2b144b3b7d0da484c430cbe8d97f558302d3062c.jpg"></article>]]></description>
-            <link>http://gridironnow.com/sec-recruiting-numbers-crunching/</link>
-            <guid isPermaLink="false">d0920d95-32cc-449b-b7f5-d65afe9187fd</guid>
-            <pubDate>Mon, 08 Feb 2016 16:42:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
