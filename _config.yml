@@ -1,6 +1,6 @@
 name: Battered Aggie Syndrome
 favicon: null
-layout_spectrum: 0.75078
+layout_spectrum: 0.74675
 typography_spectrum: 0.57666
 title: null
 cta:
@@ -24,6 +24,6 @@ color:
     - '#b26551'
   brandStrength: 0
   lightness: 0.5625
-  saturation: 0.5
-  rhythmicContrast: 0.25
+  saturation: 0.5625
+  rhythmicContrast: 0.5
 purpose: []
